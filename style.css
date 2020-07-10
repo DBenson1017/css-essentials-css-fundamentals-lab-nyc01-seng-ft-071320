@@ -22,7 +22,7 @@ nav {
     font-size: 10px;
  }
  
- #details {
+ div #details {
    display: block;
    float: left;
    
