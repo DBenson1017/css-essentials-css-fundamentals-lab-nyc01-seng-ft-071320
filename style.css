@@ -18,12 +18,12 @@ nav {
 }
 
  figcaption {
- text-align:center;
- font-size: 10px;
+    text-align:center;
+    font-size: 10px;
  }
  
  
- featured-property p {
- hard-with: 900px;
- text-align:center;
+ #featured-property p {
+    width: 800px;
+    text-align:center;
  }
