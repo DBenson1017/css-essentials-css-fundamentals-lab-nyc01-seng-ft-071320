@@ -22,6 +22,12 @@ nav {
     font-size: 10px;
  }
  
+ div {
+   background-color: red;
+   text-align: center;
+   width: 25%;
+ }
+ 
  div #details {
    display: block;
    float: left;
