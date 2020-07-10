@@ -23,5 +23,7 @@ nav {
  }
  
  
+ featured-property p {
  hard-with: 900px;
  text-align:center;
+ }
